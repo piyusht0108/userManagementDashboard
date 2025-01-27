@@ -5,7 +5,21 @@
       "first_name": "Joey",
       "last_name": "Tribbiani",
       "email":"joeyT@friends.com",
-      "department": "acting"
+      "department": "Acting"
+    },
+    {
+      "user_id": 2,
+      "first_name": "Monica",
+      "last_name": "Geller",
+      "email":"monica@friends.com",
+      "department": "Cooking"
+    },
+     {
+      "user_id": 3,
+      "first_name": "Ross",
+      "last_name": "Geller",
+      "email":"ross@friends.com",
+      "department": "Paleontology"
     }
   ]
 }
